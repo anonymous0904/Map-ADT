@@ -1,0 +1,3 @@
+C:/Users/andaf/CLionProjects/Map1/cmake-build-debug/CMakeFiles/Map1.dir
+C:/Users/andaf/CLionProjects/Map1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andaf/CLionProjects/Map1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
